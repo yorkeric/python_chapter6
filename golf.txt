@@ -1,2 +1,3 @@
-DDD,10
-22-,n
+Eric York,56
+Tiger Woods,44
+Arnold Palmer,45
